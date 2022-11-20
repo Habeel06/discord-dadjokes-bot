@@ -8,6 +8,7 @@ A simple discord dadjoke bot using discord.py.
 MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 > random<br>
 > discord.py<br>
+> datetime
 
 
 ## 📺 Updates
