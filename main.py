@@ -5,7 +5,7 @@ import discord
 from discord import app_commands
 import datetime
 
-token = os.environ.get('DISCORD_BOT_SECRET')
+token = os.environ.get('DISCORD_BOT_SECRET') #for secrets
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
@@ -126,4 +126,4 @@ async def on_ready():
   print('We have logged in as {0.user}'.format(client))
 
 
-client.run(token)
+client.run(token)#if you dont want to store the token as a secret just put the token value here
