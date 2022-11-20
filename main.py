@@ -11,7 +11,7 @@ client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
 
 
-dj = [ #dadjo
+dj = [ 
   "What does a baby computer call his father? Data.",
   "After an unsuccessful harvest, why did the farmer decide to try a career in music? Because he had a ton of sick beets.",
   "I only seem to get sick on weekdays. I must have a weekend immune system.",
