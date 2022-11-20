@@ -1,2 +1,16 @@
-# discord-dadjokes-bot
+
 A simple discord dadjoke bot using discord.py.
+## 📝About
+
+A simple discord dadjoke bot using discord.py.
+
+## 👨‍💻 Dependencies
+MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
+> random<br>
+> discord.py<br>
+
+
+## 📺 Updates
+<h2>COMPLETED! </h2>
+
+
