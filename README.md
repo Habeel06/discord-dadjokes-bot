@@ -1,5 +1,3 @@
-
-A simple discord dadjoke bot using discord.py.
 ## 📝About
 
 A simple discord dadjoke bot using discord.py.
